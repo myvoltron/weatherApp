@@ -1,4 +1,4 @@
-const API_KEY = "a913e5c5a1fa08b8e95f64bcb7c3d535"; //API키 
+const API_KEY = "#"; //add your API KEY 
 const COORDS = 'coords'; //좌표를 받을 변수 
 
 //DOM객체들 
